@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Creation</title>
+</head>
+<body>
+    <h1><center>Content Creation</center></h1>
+    <br>
+        <p>Content creation is a vital part of any small busines trying to grow, scale, and 
+            to increase their online presence. We offer everything you need for all of your
+            content creation needs. As you grow and scale we will be here with you all the way.
+        </p>
+    <hr>
+        <h2>Types of Content Creation</h2>
+        <br>
+            <h3>Copy Writing</h3>
+                <p>Writing copy for your website and advertising is how you convery your message and 
+                    raise your rankings online.
+                </p>
+            <h3>Photography</h3>
+                <p>Using professional photography and capturing your people and your businesss and what 
+                    you do is much better to engage with and attract new customers than using stock images.
+                </p>
+            <h3>Videography</h3>
+                <p>Videos for all kinds of purposes. Can be instructional, introductory or expalnatory.</p>
+            <h3>Artificial Intelligence</h3>
+                <p>AI has opened a whole new world of posibilities for content creation that can save us
+                    time and save you money.
+                </p>
+</body>
+</html>
